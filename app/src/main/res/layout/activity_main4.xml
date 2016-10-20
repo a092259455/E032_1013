@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:id="@+id/activity_main4"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="tw.com.a4040e032.e032_1013.Main4Activity"
+    android:weightSum="1">
+
+    <TextView
+        android:text="@string/text_t2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/t2"
+        android:textAlignment="center"
+        android:layout_weight="0.29"
+        tools:text="@string/text_t2" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/book"
+        android:id="@+id/imageView2" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/B4"
+        android:layout_weight="0.09"
+        android:text="@string/text_B4"
+        tools:text="@string/text_B4" />
+</LinearLayout>

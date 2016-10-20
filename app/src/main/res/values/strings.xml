@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">E032_1013</string>
+    <string name="hint_NA">帳號</string>
+    <string name="hint_PA">密碼</string>
+    <string name="hint_PH">手機</string>
+    <string name="text_B1">介紹</string>
+    <string name="text_B2">HELP</string>
+    <string name="text_B3">叩首</string>
+    <string name="text_B4">kowtow</string>
+    <string name="text_t1">我的大名是游世宇,謝謝老師的教導,$$$請收下</string>
+    <string name="text_t2">我的志願是資訊工程師,感謝老師的教導</string>
+</resources>
